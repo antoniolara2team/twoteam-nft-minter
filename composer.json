@@ -1,0 +1,9 @@
+{
+    "name": " twoteamnft/twoteam-nft-minter",
+    "require": {
+        "automattic/woocommerce/client": "^3.0",
+		"web3/web3": "^1.7",
+		"web3/contract": "^1.7",
+		"web3/utils": "^1.7"
+    }
+}
